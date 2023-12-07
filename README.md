@@ -18,3 +18,8 @@ Website Link: https://www.mulchmaster.de/
 Built an eCommerce website for lawn mowers in Germany using CMS WordPress and Woocommerce. 🛒🏡🇩🇪
 
 This website allows users to browse, search, and purchase lawnmowers from my company's catalog. It features a user-friendly interface, smooth navigation, and a variety of filters to help users find the lawnmowers they are looking for.
+
+# 2022-2023 | Swiss Organic Partners AG
+Harnessed data for meaningful insights through data engineering, analysis, visualization and business intelligence solutions. 📊 📈 🎨 💡
+
+Transformed raw data into actionable insights, enabling businesses to make informed decisions with the skills in data engineering, data analysis, data visualization, and business intelligence.
