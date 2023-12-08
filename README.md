@@ -19,6 +19,8 @@ Built an eCommerce website for lawn mowers in Germany using CMS WordPress and Wo
 
 This website allows users to browse, search, and purchase lawnmowers from my company's catalog. It features a user-friendly interface, smooth navigation, and a variety of filters to help users find the lawnmowers they are looking for.
 
+## 3) Created success stories by finding out "Actionable Insights" helped informed decisions with successful business outcomes.
+
 # 2022-2023 | Swiss Organic Partners AG
 Harnessed data for meaningful insights through data engineering, analysis, visualization and business intelligence solutions. 📊 📈 🎨 💡
 
