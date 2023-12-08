@@ -25,3 +25,5 @@ This website allows users to browse, search, and purchase lawnmowers from my com
 Harnessed data for meaningful insights through data engineering, analysis, visualization and business intelligence solutions. 📊 📈 🎨 💡
 
 Transformed raw data into actionable insights, enabling businesses to make informed decisions with the skills in data engineering, data analysis, data visualization, and business intelligence.
+
+## 1) Created success stories by finding out "Actionable Insights" helped informed decisions with successful business outcomes.
