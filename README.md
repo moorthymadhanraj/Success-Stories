@@ -6,9 +6,9 @@
 ## 1) Designed & Developed Native Android Mobile Application
 App Link: https://play.google.com/store/apps/details?id=com.mws.app
 
-Built a comprehensive product catalog mobile app for my company using Java and Android Studio. 📱 📈 🏢
+Built a comprehensive product catalog mobile app for my company using Java and Android Studio.📱 📈 🏢
 
-This app allows users to browse, search, and purchase products from the company's catalog. It features a user-friendly interface, smooth navigation, and a variety of filters to help users find the products they are looking for.
+This app allows users to browse, search, and find out accurate products & parts from the company's catalogs. It features a user-friendly interface, smooth navigation, and a variety of filters to help users find the products they are looking for.
 
 The app was developed using Java and Android Studio, and it is built on the Kotlin standard library. It utilizes various Android SDK components, such as the RecyclerView, ConstraintLayout, and Navigation components.
 
