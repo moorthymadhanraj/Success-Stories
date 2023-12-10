@@ -27,3 +27,10 @@ Harnessed data for meaningful insights through data engineering, analysis, visua
 Transformed raw data into actionable insights, enabling businesses to make informed decisions with the skills in data engineering, data analysis, data visualization, and business intelligence.
 
 ## 1) Created success stories by finding out "Actionable Insights" helped informed decisions with successful business outcomes.
+
+1)	Data Cleaning: Improved data quality by 50-70%.
+2)	Automating BI reports: Saved 75% of manual reporting time.
+3)	DWH - Improved decision-making process.
+4)	Data Infrastructure - Streamlined Workflow.
+5)	Customer Insights: Led to a 20-30% revenue increase by finding potential customers and implementing new marketing strategies.
+6)	Product Insights: Helped to understand top performing products.
