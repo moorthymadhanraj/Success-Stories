@@ -30,7 +30,7 @@ Transformed raw data into actionable insights, enabling businesses to make infor
 
 1)	Data Cleaning: Improved data quality by 50-70%.
 2)	Automating BI reports: Saved 75% of manual reporting time.
-3)	DWH - Improved decision-making process.
-4)	Data Infrastructure - Streamlined Workflow.
-5)	Customer Insights: Led to a 20-30% revenue increase by finding potential customers and implementing new marketing strategies.
+3)	DataWarehouse - Improved decision-making process.
+4)	Data Infrastructure - Streamlined the Workflow/Dataflow.
+5)	Customer Insights: Led to 20-30% revenue increase by finding potential customers and implementing new marketing strategies.
 6)	Product Insights: Helped to understand top performing products.
