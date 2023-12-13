@@ -13,7 +13,7 @@ This app allows users to browse, search, and find out accurate products & parts 
 The app was developed using Java and Android Studio, and it is built on the Kotlin standard library. It utilizes various Android SDK components, such as the RecyclerView, ConstraintLayout, and Navigation components.
 
 ## 2) Designed & Developed Online Shop using Content Management System
-Website Link: https://www.mulchmaster.de/
+Webshop Link: https://www.mulchmaster.de/
 
 Built an eCommerce website for lawn mowers in Germany using CMS WordPress and Woocommerce. 🛒🏡🇩🇪
 
