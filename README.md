@@ -22,7 +22,7 @@ This website allows users to browse, search, and purchase lawnmowers from my com
 ## 3) Created success stories by building profitable online shop & finding out "Actionable Insights" helped informed decisions with successful business outcomes.
 
 # 2022-2023 | Swiss Organic Partners AG
-Harnessed data for meaningful insights through data engineering, analysis, visualization and business intelligence solutions. 📊 📈 🎨 💡
+Harnessed data for meaningful insights through data engineering, analysis, visualization and business intelligence solutions. 📊 📈 💡
 
 Transformed raw data into actionable insights, enabling businesses to make informed decisions with the skills in data engineering, data analysis, data visualization, and business intelligence.
 
