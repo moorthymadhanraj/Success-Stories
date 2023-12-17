@@ -4,7 +4,7 @@
 # 2019-2022 | MWS Schneidwerkzeuge GmbH & Co. KG
 
 ## 1) Designed & Developed Native Android Mobile Application
-App Link: https://play.google.com/store/apps/details?id=com.mws.app
+Google Play Store App Link: https://play.google.com/store/apps/details?id=com.mws.app
 
 Built a comprehensive product catalog mobile app for my company using Java and Android Studio.📱 📈 🏢
 
