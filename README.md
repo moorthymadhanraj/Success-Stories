@@ -6,7 +6,7 @@
 ## 1) Designed & Developed Native Android Mobile Application
 Google Play Store App Link: https://play.google.com/store/apps/details?id=com.mws.app
 
-Built a comprehensive product catalog mobile app for my company using Java and Android Studio.📱 📈 🏢
+Built a comprehensive product catalog mobile app for my company using Java and Android Studio.📱 📈
 
 This app allows users to browse, search, and find out accurate products & parts from the company's catalogs. It features a user-friendly interface, smooth navigation, and a variety of filters to help users find the products they are looking for.
 
@@ -22,7 +22,7 @@ This website allows users to browse, search, and purchase lawnmowers from my com
 ## 3) Created success stories by building profitable online shop & finding out "Actionable Insights" helped informed decisions with successful business outcomes.
 
 # 2022-2023 | Swiss Organic Partners AG
-Harnessed data for meaningful insights through data engineering, analysis, visualization and business intelligence solutions. 📊 📈 💡
+Harnessed data for meaningful insights through data engineering, analysis, visualization and business intelligence solutions. 📊💡
 
 Transformed raw data into actionable insights, enabling businesses to make informed decisions with the skills in data engineering, data analysis, data visualization, and business intelligence.
 
