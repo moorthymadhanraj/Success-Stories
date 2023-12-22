@@ -15,7 +15,7 @@ The app was developed using Java and Android Studio, and it is built on the Kotl
 ## 2) Designed & Developed Online Shop using Content Management System
 Webshop Link: https://www.mulchmaster.de/
 
-Built an eCommerce website for lawn mowers in Germany using CMS WordPress and Woocommerce. 🛒🏡🇩🇪
+Built an eCommerce website for lawn mowers in Germany using CMS WordPress and Woocommerce. 🛒🇩🇪
 
 This website allows users to browse, search, and purchase lawnmowers from my company's catalog. It features a user-friendly interface, smooth navigation, and a variety of filters to help users find the lawnmowers they are looking for.
 
