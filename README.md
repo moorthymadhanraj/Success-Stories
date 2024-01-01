@@ -37,4 +37,4 @@ Transformed raw data into actionable insights, enabling businesses to make infor
 
 
 # Developments on my Work Experiences in India
-* Yet to be updated
+* Will be updated soon.
