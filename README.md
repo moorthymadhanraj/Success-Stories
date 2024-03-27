@@ -1,6 +1,20 @@
 # Success-Stories
 # Developments on my Work Experiences in Germany
 
+# 2022-2023 | Swiss Organic Partners AG
+Harnessed data for meaningful insights through data engineering, analysis, visualization and business intelligence solutions. 📊💡
+
+Transformed raw data into actionable insights, enabling businesses to make informed decisions with the skills in data engineering, data analysis, data visualization, and business intelligence.
+
+## 1) Created success stories by finding out "Actionable Insights" helped informed decisions with successful business outcomes.🏆
+
+1)	Data Cleaning: Improved data quality by 50-70%. 
+2)	Automating BI reports: Saved 75% of manual reporting time.
+3)	DataWarehouse - Improved decision-making process.
+4)	Data Infrastructure - Streamlined the Workflow/Dataflow.
+5)	Customer Insights: Led to 20-30% revenue increase by finding potential customers and implementing new marketing strategies.
+6)	Product Insights: Helped to understand top performing products.
+
 # 2019-2022 | MWS Schneidwerkzeuge GmbH & Co. KG
 
 ## 1) Designed & Developed Native Android Mobile Application
@@ -21,20 +35,5 @@ This website allows users to browse, search, and purchase lawnmowers from my com
 
 ## 3) Created success stories by building profitable online shop & finding out "Actionable Insights" helped informed decisions with successful business outcomes.
 
-# 2022-2023 | Swiss Organic Partners AG
-Harnessed data for meaningful insights through data engineering, analysis, visualization and business intelligence solutions. 📊💡
-
-Transformed raw data into actionable insights, enabling businesses to make informed decisions with the skills in data engineering, data analysis, data visualization, and business intelligence.
-
-## 1) Created success stories by finding out "Actionable Insights" helped informed decisions with successful business outcomes.🏆
-
-1)	Data Cleaning: Improved data quality by 50-70%. 
-2)	Automating BI reports: Saved 75% of manual reporting time.
-3)	DataWarehouse - Improved decision-making process.
-4)	Data Infrastructure - Streamlined the Workflow/Dataflow.
-5)	Customer Insights: Led to 20-30% revenue increase by finding potential customers and implementing new marketing strategies.
-6)	Product Insights: Helped to understand top performing products.
-
-
-# Developments on my Work Experiences in India
+# 2011-2018 | Work Experience
 * Will be updated soon.
