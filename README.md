@@ -35,5 +35,5 @@ This website allows users to browse, search, and purchase lawnmowers from my com
 
 ## 3) Created success stories by building profitable online shop & finding out "Actionable Insights" helped informed decisions with successful business outcomes.
 
-# 2011-2018 | Work Experience
+# 2011-2018 | Success Stories
 * Will be updated soon.
